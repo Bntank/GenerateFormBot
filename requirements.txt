@@ -1,0 +1,14 @@
+# requirements.txt - Bot Berita Acara Pro Wifi
+Flask==3.0.3
+python-telegram-bot==21.10
+google-api-python-client==2.144.0
+google-auth==2.35.0
+google-auth-httplib2==0.2.0
+google-auth-oauthlib==1.2.1
+gunicorn==21.2.0
+requests==2.32.4
+openpyxl==3.1.2
+Pillow==10.4.0
+cachetools==5.5.0
+httplib2==0.22.0
+python-dotenv==1.1.1
